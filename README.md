@@ -2,7 +2,7 @@
 
 Welcome!
 
-This repository is the home of the cancer prediction project I have worked on!
+This repository is the home of the cancer prediction project I have worked on! (Go to the master branch - you are the main right now).
 
 This project uses a Kaggle dataset (it is a structured dataset in the event you are wondering).  Click [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) if you want to see the data!
 
